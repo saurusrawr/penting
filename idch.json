@@ -27,13 +27,14 @@
     "id": "120363426547908854@newsletter",
     "desc": "Saurus 7"
   },
+
   {
     "id": "120363425556394667@newsletter",
     "desc": "Daffa 1"
   },
   {
     "id": "120363405886445642@newsletter",
-    "decs": "Daffa 2"
+    "desc": "Daffa 2"
   },
 
   {
@@ -52,6 +53,30 @@
     "id": "120363408385021598@newsletter",
     "desc": "Vanzz 4"
   },
+  {
+    "id": "120363406453695596@newsletter",
+    "desc": "Vanzz 5"
+  },
+  {
+    "id": "120363405730450137@newsletter",
+    "desc": "Vanzz 6"
+  },
+  {
+    "id": "120363424854418300@newsletter",
+    "desc": "Vanzz 7"
+  },
+  {
+    "id": "120363424567794082@newsletter",
+    "desc": "Vanzz 8"
+  },
+  {
+    "id": "120363425914213838@newsletter",
+    "desc": "Vanzz 9"
+  },
+  {
+    "id": "120363406203545302@newsletter",
+    "desc": "Vanzz 10"
+  },
 
   {
     "id": "120363404758403720@newsletter",
@@ -64,5 +89,14 @@
   {
     "id": "120363424121521240@newsletter",
     "desc": "Xanz 3"
+  },
+
+  {
+    "id": "120363422131544199@newsletter",
+    "desc": "Faris 1"
+  },
+  {
+    "id": "120363424837875688@newsletter",
+    "desc": "Faris 2"
   }
 ]
